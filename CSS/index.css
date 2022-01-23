@@ -360,8 +360,8 @@ body {
 }
 
 .home {
-  background-image: url(assets/home/background-home-mobile.jpg);
-  
+  background-image: url(../assets/home/background-home-mobile.jpg);
+
 }
 body {
   background-image: url(assets/home/background-home-mobile.jpg);
